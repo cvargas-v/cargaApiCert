@@ -1,0 +1,361 @@
+Nombre API: Payment Gateway
+7
+subject= /C=CL/ST=Santiago/L=Santiago de Chile/O=Entel/OU=Online/CN=Payment Gateway
+Cert Desde: 29/10/19 16:05:41
+Cert Hasta: 26/10/29 16:05:41
+------------------------------
+Nombre API: Payment Gateway
+7
+subject= /C=CL/ST=Santiago/L=Santiago de Chile/O=Entel/OU=Online/CN=Payment Gateway/emailAddress=paymentgateway@entel.cl
+Cert Desde: 29/10/19 15:58:55
+Cert Hasta: 26/10/29 15:58:55
+------------------------------
+Nombre API: xygo.entel.cl
+7
+subject= /C=CL/ST=METROPOLITANA/L=Santiago/O=Empresa Nacional de Telecomunicaciones S.A./OU=TDE Entel/CN=xygo.entel.cl
+Cert Desde: 06/08/19 15:56:56
+Cert Hasta: 05/08/21 15:56:56
+------------------------------
+Nombre API: DigiCert High Assurance EV Root CA
+5
+subject= /C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert High Assurance EV Root CA
+Cert Desde: 09/11/06 21:00:00
+Cert Hasta: 09/11/31 21:00:00
+------------------------------
+Nombre API: DigiCert SHA2 Extended Validation Server CA
+5
+subject= /C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert SHA2 Extended Validation Server CA
+Cert Desde: 22/10/13 09:00:00
+Cert Hasta: 22/10/28 09:00:00
+------------------------------
+Nombre API: etadirect.com
+7
+subject= /C=US/ST=California/L=Redwood City/O=Oracle Corporation/OU=Oracle Field Service Cloud/CN=etadirect.com
+Cert Desde: 18/03/20 21:00:00
+Cert Hasta: 18/06/21 08:00:00
+------------------------------
+Nombre API: DigiCert SHA2 High Assurance Server CA
+5
+subject= /C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert SHA2 High Assurance Server CA
+Cert Desde: 22/10/13 09:00:00
+Cert Hasta: 22/10/28 09:00:00
+------------------------------
+Nombre API: FGT1KD3915802294
+7
+subject= /C=US/ST=California/L=Sunnyvale/O=Fortinet/OU=Certificate Authority/CN=FGT1KD3915802294/emailAddress=support@fortinet.com
+Cert Desde: 17/05/17 16:51:30
+Cert Hasta: 18/05/27 16:51:30
+------------------------------
+Nombre API: Thawte RSA CA 2018
+5
+subject= /C=US/O=DigiCert Inc/OU=www.digicert.com/CN=Thawte RSA CA 2018
+Cert Desde: 06/11/17 09:23:52
+Cert Hasta: 06/11/27 09:23:52
+------------------------------
+Nombre API: *.appspot-preview.com
+6
+subject= /C=US/ST=California/L=Mountain View/O=Google LLC/CN=*.appspot-preview.com
+Cert Desde: 13/04/21 05:56:15
+Cert Hasta: 06/07/21 05:56:14
+------------------------------
+Nombre API: GTS CA 1C3
+4
+subject= /C=US/O=Google Trust Services LLC/CN=GTS CA 1C3
+Cert Desde: 12/08/20 20:00:42
+Cert Hasta: 29/09/27 21:00:42
+------------------------------
+Nombre API: GTS Root R1
+4
+subject= /C=US/O=Google Trust Services LLC/CN=GTS Root R1
+Cert Desde: 21/06/16 20:00:00
+Cert Hasta: 21/06/36 20:00:00
+------------------------------
+Nombre API: *.appspot.com
+2
+subject= /CN=*.appspot.com
+Cert Desde: 09/05/21 21:07:38
+Cert Hasta: 01/08/21 21:07:37
+------------------------------
+Nombre API: wsn.transunionchile.cl
+10
+subject= /businessCategory=Private Organization/serialNumber=968702602/1.3.6.1.4.1.311.60.2.1.3=CL/C=CL/ST=Santiago/L=Santiago/street=Edificio del Comercio/O=Transunion Soluciones de Informacion Chile S.A/CN=wsn.transunionchile.cl
+Cert Desde: 23/10/20 16:56:03
+Cert Hasta: 24/11/21 16:56:03
+------------------------------
+Nombre API: ws.transunionchile.cl
+11
+subject= /businessCategory=Private Organization/serialNumber=968702602/1.3.6.1.4.1.311.60.2.1.3=CL/C=CL/ST=Santiago/L=Santiago/street=Monjitas 392 Piso 5/OU=Transunion Soluciones de Informacion Chile S.o/O=Transunion Soluciones de Informacion Chile S.A/CN=ws.transunionchile.cl
+Cert Desde: 16/05/19 11:01:05
+Cert Hasta: 03/06/21 14:11:04
+------------------------------
+Nombre API: *.csm.osm.gemalto.com
+7
+subject= /L=Fort Worth/ST=Texas/C=US/O=Gemalto/OU=GGS/CN=*.csm.osm.gemalto.com
+Cert Desde: 05/01/18 17:17:22
+Cert Hasta: 05/01/23 17:17:22
+------------------------------
+Nombre API: cda.labs-tdc.com
+5
+subject= /C=CL/L=Santiago/O=The Dog Company Spa/CN=cda.labs-tdc.com
+Cert Desde: 29/04/21 20:00:00
+Cert Hasta: 25/05/22 19:59:59
+------------------------------
+Nombre API: *.okta.com
+6
+subject= /C=US/ST=California/L=San Francisco/O=Okta, Inc./CN=*.okta.com
+Cert Desde: 31/03/21 21:00:00
+Cert Hasta: 02/05/22 19:59:59
+------------------------------
+Nombre API: *.execute-api.us-east-1.amazonaws.com
+2
+subject= /CN=*.execute-api.us-east-1.amazonaws.com
+Cert Desde: 08/03/21 21:00:00
+Cert Hasta: 07/04/22 19:59:59
+------------------------------
+Nombre API: api.prod.mira-entel.net
+2
+subject= /CN=api.prod.mira-entel.net
+Cert Desde: 17/12/20 21:00:00
+Cert Hasta: 16/01/22 20:59:59
+------------------------------
+Nombre API: ws.transunionchile.cl
+10
+subject= /businessCategory=Private Organization/serialNumber=968702602/1.3.6.1.4.1.311.60.2.1.3=CL/C=CL/ST=Santiago/L=Santiago/street=Edificio del Comercio/O=Transunion Soluciones de Informacion Chile S.A/CN=ws.transunionchile.cl
+Cert Desde: 19/05/21 12:56:03
+Cert Hasta: 20/06/22 12:56:03
+------------------------------
+Nombre API: GTS CA 1O1
+4
+subject= /C=US/O=Google Trust Services/CN=GTS CA 1O1
+Cert Desde: 14/06/17 20:00:42
+Cert Hasta: 14/12/21 21:00:42
+------------------------------
+Nombre API: GlobalSign
+4
+subject= /OU=GlobalSign Root CA - R2/O=GlobalSign/CN=GlobalSign
+Cert Desde: 15/12/06 05:00:00
+Cert Hasta: 15/12/21 05:00:00
+------------------------------
+Nombre API: status.leonora.cl
+2
+subject= /CN=status.leonora.cl
+Cert Desde: 22/05/21 19:36:49
+Cert Hasta: 20/08/21 19:36:49
+------------------------------
+Nombre API: *.appspot.com
+6
+subject= /C=US/ST=California/L=Mountain View/O=Google LLC/CN=*.appspot.com
+Cert Desde: 09/05/21 21:07:28
+Cert Hasta: 01/08/21 21:07:27
+------------------------------
+Nombre API: *.appspot.com
+6
+subject= /C=US/ST=California/L=Mountain View/O=Google LLC/CN=*.appspot.com
+Cert Desde: 13/04/21 06:10:17
+Cert Hasta: 06/07/21 06:10:16
+------------------------------
+Nombre API: etadirect.com
+6
+subject= /C=US/ST=California/L=Redwood Shores/O=Oracle Corporation/CN=etadirect.com
+Cert Desde: 24/05/21 20:00:00
+Cert Hasta: 02/06/22 19:59:59
+------------------------------
+Nombre API: webpay3g.transbank.cl
+5
+subject= /C=CL/L=Santiago/O=TRANSBANK S.A./CN=webpay3g.transbank.cl
+Cert Desde: 25/08/20 20:00:00
+Cert Hasta: 31/08/22 08:00:00
+------------------------------
+Nombre API: cl-entel-cte-test
+5
+subject= /C=US/ST=California/OU=IT/CN=cl-entel-cte-test/emailAddress=noreply@boku.com
+Cert Desde: 07/06/21 07:17:34
+Cert Hasta: 17/06/22 19:59:59
+------------------------------
+Nombre API: *.boku.com
+6
+subject= /C=US/ST=California/L=San Francisco/O=Boku, Inc./CN=*.boku.com
+Cert Desde: 06/04/20 04:59:42
+Cert Hasta: 13/05/22 05:29:41
+------------------------------
+Nombre API: *.paymo.net
+6
+subject= /C=US/ST=California/L=San Francisco/O=Boku, Inc./CN=*.paymo.net
+Cert Desde: 06/04/20 05:06:12
+Cert Hasta: 13/05/22 05:36:12
+------------------------------
+Nombre API: OU=(c) 2009 Entrust, Inc. - for authorized use only
+6
+subject= /C=US/O=Entrust, Inc./OU=See www.entrust.net/legal-terms/OU=(c) 2009 Entrust, Inc. - for authorized use only/CN=Entrust Root Certification Authority - G2
+Cert Desde: 07/07/09 13:25:54
+Cert Hasta: 07/12/30 14:55:54
+------------------------------
+Nombre API: OU=(c) 2012 Entrust, Inc. - for authorized use only
+6
+subject= /C=US/O=Entrust, Inc./OU=See www.entrust.net/legal-terms/OU=(c) 2012 Entrust, Inc. - for authorized use only/CN=Entrust Certification Authority - L1K
+Cert Desde: 05/10/15 16:13:56
+Cert Hasta: 05/12/30 16:43:56
+------------------------------
+Nombre API: Kubernetes Ingress Controller Fake Certificate
+3
+subject= /O=Acme Co/CN=Kubernetes Ingress Controller Fake Certificate
+Cert Desde: 10/06/21 19:00:39
+Cert Hasta: 10/06/22 19:00:39
+------------------------------
+Nombre API: ws.equifax.cl
+11
+subject= /serialNumber=J306699/1.3.6.1.4.1.311.60.2.1.3=US/1.3.6.1.4.1.311.60.2.1.2=Georgia/businessCategory=Private Organization/C=US/ST=Georgia/L=Atlanta/O=Equifax Inc./OU=Public SSL/CN=ws.equifax.cl
+Cert Desde: 23/06/21 20:00:00
+Cert Hasta: 01/07/22 19:59:59
+------------------------------
+Nombre API: *.execute-api.us-east-1.amazonaws.com
+2
+subject= /CN=*.execute-api.us-east-1.amazonaws.com
+Cert Desde: 06/04/20 20:00:00
+Cert Hasta: 07/05/21 08:00:00
+------------------------------
+Nombre API: *.prodmicroservices.entel.cl
+7
+subject= /C=CL/ST=Regi\xC3\xB3n Metropolitana de Santiago/L=Las Condes/O=ENTEL S.A./OU=area de micro servicios/CN=*.prodmicroservices.entel.cl/emailAddress=SER_COEMICROSERVICIOS@entel.cl
+Cert Desde: 18/11/20 15:55:48
+Cert Hasta: 18/11/21 15:55:48
+------------------------------
+Nombre API: acepta.entel.cl
+7
+subject= /C=CL/ST=Las Condes/L=Santiago/O=Empresa Nacional de Telecomunicaciones S.A./OU=TDE Entel/CN=acepta.entel.cl
+Cert Desde: 08/01/21 15:27:46
+Cert Hasta: 08/01/22 15:27:46
+------------------------------
+Nombre API: SubCAEntel
+7
+subject= /C=cl/ST=Region Metropolitana/L=Santiago/O=Entel/OU=Operacion de Sistemas/CN=SubCAEntel/emailAddress=subca@entel.cl
+Cert Desde: 28/03/19 22:29:15
+Cert Hasta: 14/06/27 21:29:15
+------------------------------
+Nombre API: *.labs-tdc.com
+2
+subject= /CN=*.labs-tdc.com
+Cert Desde: 13/04/20 20:00:00
+Cert Hasta: 14/05/21 08:00:00
+------------------------------
+Nombre API: *.execute-api.us-east-1.amazonaws.com
+2
+subject= /CN=*.execute-api.us-east-1.amazonaws.com
+Cert Desde: 03/02/21 21:00:00
+Cert Hasta: 22/01/22 20:59:59
+------------------------------
+Nombre API: webservices.bango.com
+5
+subject= /C=GB/L=Cambridge/O=Bango Plc/CN=webservices.bango.com
+Cert Desde: 14/02/21 21:00:00
+Cert Hasta: 18/03/22 20:59:59
+------------------------------
+Nombre API: *.execute-api.us-east-1.amazonaws.com
+2
+subject= /CN=*.execute-api.us-east-1.amazonaws.com
+Cert Desde: 18/08/20 20:00:00
+Cert Hasta: 19/09/21 09:00:00
+------------------------------
+Nombre API: pssg
+2
+subject= /CN=pssg
+Cert Desde: 08/03/21 13:11:52
+Cert Hasta: 07/03/24 13:11:52
+------------------------------
+Nombre API: dssg
+2
+subject= /CN=dssg
+Cert Desde: 08/03/21 13:11:50
+Cert Hasta: 07/03/24 13:11:50
+------------------------------
+Nombre API: tssg
+2
+subject= /CN=tssg
+Cert Desde: 08/03/21 13:11:52
+Cert Hasta: 07/03/24 13:11:52
+------------------------------
+Nombre API: www.mamprime.cl
+5
+subject= /C=CL/L=Las Condes/O=Prime Tecnologia SPA/CN=www.mamprime.cl
+Cert Desde: 22/12/20 21:00:00
+Cert Hasta: 19/01/22 20:59:59
+------------------------------
+Nombre API: *.labs-tdc.com
+2
+subject= /CN=*.labs-tdc.com
+Cert Desde: 15/03/21 21:00:00
+Cert Hasta: 14/04/22 19:59:59
+------------------------------
+Nombre API: CDV1PRAPIGWEX01
+2
+subject= /CN=CDV1PRAPIGWEX01
+Cert Desde: 26/02/18 18:27:15
+Cert Hasta: 17/08/28 17:27:15
+------------------------------
+Nombre API: CDV1PRAPIGWIN01
+2
+subject= /CN=CDV1PRAPIGWIN01
+Cert Desde: 26/02/18 18:25:31
+Cert Hasta: 17/08/28 17:25:31
+------------------------------
+Nombre API: lacssl
+2
+subject= /CN=lacssl
+Cert Desde: 14/12/17 10:43:46
+Cert Hasta: 13/12/22 10:43:46
+------------------------------
+Nombre API: *.e-pagos.cl
+7
+subject= /C=CL/ST=Santiago/L=Santiago/street=Londres 76/O=EFT Group S.A./CN=*.e-pagos.cl
+Cert Desde: 11/02/20 21:00:00
+Cert Hasta: 12/04/22 19:59:59
+------------------------------
+Nombre API: cda.labs-tdc.com
+6
+subject= /C=CL/ST=Santiago Metropolitan Region/L=Santiago/O=The Dog Company Spa/CN=cda.labs-tdc.com
+Cert Desde: 12/04/20 20:00:00
+Cert Hasta: 07/05/21 08:00:00
+------------------------------
+Nombre API: *.e-pagos.cl
+7
+subject= /C=CL/ST=Santiago/L=Santiago/street=Londres 76/O=EFT Group S.A./CN=*.e-pagos.cl
+Cert Desde: 30/05/20 20:00:00
+Cert Hasta: 12/04/22 19:59:59
+------------------------------
+Nombre API: *.a365.com.pe
+3
+subject= /OU=Domain Control Validated/CN=*.a365.com.pe
+Cert Desde: 24/07/20 19:32:17
+Cert Hasta: 24/07/22 18:48:13
+------------------------------
+Nombre API: ws.equifax.cl
+13
+subject= /serialNumber=J306699/1.3.6.1.4.1.311.60.2.1.3=US/1.3.6.1.4.1.311.60.2.1.2=Georgia/businessCategory=Private Organization/C=US/postalCode=30309/ST=Georgia/L=Atlanta/street=1550 Peachtree St NW/O=Equifax Inc./OU=Public SSL/CN=ws.equifax.cl
+Cert Desde: 30/06/20 20:00:00
+Cert Hasta: 01/07/21 19:59:59
+------------------------------
+Nombre API: DigiCert SHA2 Secure Server CA
+4
+subject= /C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA
+Cert Desde: 08/03/13 09:00:00
+Cert Hasta: 08/03/23 09:00:00
+------------------------------
+Nombre API: DigiCert Global Root CA
+5
+subject= /C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Global Root CA
+Cert Desde: 09/11/06 21:00:00
+Cert Hasta: 09/11/31 21:00:00
+------------------------------
+Nombre API: bc-proxysg.entel.entelcorp.com
+7
+subject= /C=CL/ST=Santiago de Chile/L=Santiago/O=ENTEL/OU=Sistemas/CN=bc-proxysg.entel.entelcorp.com
+Cert Desde: 31/08/17 18:50:58
+Cert Hasta: 29/08/27 17:50:58
+------------------------------
+Nombre API: GlobalSign Extended Validation CA - SHA256 - G3
+4
+subject= /C=BE/O=GlobalSign nv-sa/CN=GlobalSign Extended Validation CA - SHA256 - G3
+Cert Desde: 20/09/16 21:00:00
+Cert Hasta: 20/09/26 21:00:00
+------------------------------
+No hay archivos a borrar
